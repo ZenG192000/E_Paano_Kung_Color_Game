@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E Paano Kung Color Game</string>
+    <string name="radiobutton">Green</string>
+    <string name="radiobutton2">Red</string>
+    <string name="radiobutton3">Blue</string>
+    <string name="radiobutton4">Pink</string>
+    <string name="button">RANDOM</string>
+    <string name="textview">TextView</string>
+    <string name="e_paano_kung_color_game">E Paano Kung Color Game</string>
+</resources>
